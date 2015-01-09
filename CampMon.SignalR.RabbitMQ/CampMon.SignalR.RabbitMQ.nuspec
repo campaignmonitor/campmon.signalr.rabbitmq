@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>campmon.signalr.rabbitmq</id>
+    <version>$version$</version>
+    <authors>Campaign Monitor, brett hoffman</authors>
+    <description>SignalR backplane via RabbitMQ</description>
+    <language>en-US</language>
+    <projectUrl>https://github.com/hoffmanic/campmon.signalr.rabbitmq</projectUrl>
+  </metadata>
+</package>
