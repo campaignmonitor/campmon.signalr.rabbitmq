@@ -66,6 +66,9 @@
     <Compile Include="RabbitScaleoutConfiguration.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="CampMon.SignalR.RabbitMQ.nuspec">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

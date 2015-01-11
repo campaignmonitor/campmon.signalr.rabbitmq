@@ -7,5 +7,6 @@
     <description>SignalR backplane via RabbitMQ</description>
     <language>en-US</language>
     <projectUrl>https://github.com/hoffmanic/campmon.signalr.rabbitmq</projectUrl>
+    <tags>SignalR RabbitMQ MessageBus Backplane</tags>
   </metadata>
 </package>
